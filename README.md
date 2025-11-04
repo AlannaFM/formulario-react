@@ -14,7 +14,7 @@
 
 ###
 
-[Acesse aqui a versão online do projeto:](https://formulario-react-vert.vercel.app/)
+[Acesse aqui a versão online do projeto](https://formulario-react-vert.vercel.app/)
 
 
 
